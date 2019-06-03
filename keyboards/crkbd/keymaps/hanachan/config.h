@@ -32,7 +32,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define USE_SERIAL_PD2
 
-#define RETRO_TAPPING
 #define PERMISSIVE_HOLD
 
 #undef RGBLED_NUM
